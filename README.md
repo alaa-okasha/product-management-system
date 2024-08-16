@@ -1,5 +1,8 @@
 # Product Management System
 
+## Live Demo
+Check out the live demo [here](https://alaa-okasha.github.io/product-management-system/).
+
 ## Description
 A web application for managing product information, including CRUD (Create, Read, Update, Delete) operations. The system allows users to input and manage product details such as title, price, taxes, ads, discounts, count, and category. It also supports searching and filtering products by title or category.
 
